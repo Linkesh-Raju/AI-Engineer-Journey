@@ -1,5 +1,6 @@
 # AI-Engineer-Journey
 just me and my journey 
+---------------------------------------------------------------------------------------
 
 Learning to build, deploy, secure, and maintain AI applications.
 Everything here is built as a project, with notes on what broke.
